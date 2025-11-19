@@ -1,3 +1,4 @@
+
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
@@ -5,7 +6,7 @@
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { TrendingUp, DollarSign, PieChart, Activity } from 'lucide-react';
+import { Activity } from 'lucide-react';
 
 // --- FINANCIAL CHART ---
 export const FinancialChart: React.FC = () => {
