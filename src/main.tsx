@@ -1,4 +1,3 @@
-
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
@@ -19,4 +18,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
